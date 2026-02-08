@@ -1,7 +1,7 @@
 # TravelDeskApiGateway
 to add tests folder to the existing folder follow: 
 
-create the tests folder where the TravelDeskApiGateway.slnx with this :
+create the tests folder where the TravelDeskApiGateway.slnx is with this :
 
 ``` dotnet new nunit -n TravelDeskApiGateway.Tests ```
 
